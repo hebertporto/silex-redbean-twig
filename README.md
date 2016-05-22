@@ -1,9 +1,14 @@
- * Base Structure WEBAPP - Silex - RedBeanPHP - twig
+# Base Structure WEBAPP - Silex - RedBeanPHP - twig
 
- ** Models      scr/App/Models
- ** Views       web/views
- ** Controllers scr/App/Controllers
+Documentation here:
+[Silex](http://silex.sensiolabs.org/doc/1.3/)
+[RedBeanPHP](http://www.redbeanphp.com/index.php)
+[Twig](http://twig.sensiolabs.org/documentation)
 
- *** Main File is under web/index.php
+## Models      scr/App/Models
+## Views       web/views
+## Controllers scr/App/Controllers
 
- *** Dependecies are managed by composer
+### Main File is under web/index.php
+
+### Dependecies are managed by composer
